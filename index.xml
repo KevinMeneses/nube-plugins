@@ -49,10 +49,10 @@
     </reapack>
   </category>
   <category name="Nube Synth">
-    <reapack name="nube_synth.jsfx" type="effect" desc="Nube Synth - Polyphonic synthesizer, unison, FM, glide">
+    <reapack name="nube_synth.jsfx" type="effect" desc="Nube Synth - Polyphonic synthesizer, unison, FM, glide, modulation matrix">
       <metadata><link rel="website">https://github.com/KevinMeneses/nube-synth</link></metadata>
-      <version name="1.0.0" author="Kev Meneses" time="2026-11-17T01:22:43Z">
-        <source>https://github.com/KevinMeneses/nube-synth/raw/4dc55ceabfdf82deda4dbfb78054b3559f906cf3/nube_synth.jsfx</source>
+      <version name="1.1.0" author="Kev Meneses" time="2026-11-17T21:52:26Z">
+        <source>https://github.com/KevinMeneses/nube-synth/raw/12aed48ab6663d2dcef959aa73a9a5a1f44972d0/nube_synth.jsfx</source>
       </version>
     </reapack>
   </category>
