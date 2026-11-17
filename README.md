@@ -15,7 +15,7 @@ corrector and a full mixing chain. Built with [Claude Code](https://claude.com/c
 | [Nube De-Ess](https://github.com/KevinMeneses/nube-deess) | De-esser with relative detection and phase-aligned split band |
 | [Nube Limit](https://github.com/KevinMeneses/nube-limit) | Brickwall limiter with 4x true peak and a BS.1770 LUFS meter |
 | [Nube Gate](https://github.com/KevinMeneses/nube-gate) | Gate / expander / ducker with hysteresis, transient detection, sidechain and MIDI trigger |
-| [Nube Sampler](https://github.com/KevinMeneses/nube-sampler) | Sampler: classic and MPC-style chops (transients / equal / manual), one-shot, time-stretch, tempo sync, root-note detection, drag and drop (instrument) |
+| [Nube Sampler](https://github.com/KevinMeneses/nube-sampler) | Sampler: classic, MPC-style chops (transients / equal / manual) and multi-sample zones (key and velocity ranges, a whole folder maps itself), one-shot, time-stretch, tempo sync, root-note detection, drag and drop (instrument) |
 | [Nube Tune](https://github.com/KevinMeneses/nube-tune) | Pitch correction (auto-tune): key + 12 scales or custom notes, retune speed from robot to natural, humanize, flex-tune, formant-preserving PSOLA, MIDI target notes, key detection |
 
 ## Install

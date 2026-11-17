@@ -7,7 +7,7 @@ P = [("NubeEQ", "nube-eq", "Parametric EQ, 16 bands, M/S, dynamic"), ("NubeComp"
      ("NubeLimit", "nube-limit", "Brickwall limiter, true peak, LUFS meter"), ("NubeDelay", "nube-delay", "Delay, tape / analog / lo-fi, ping-pong, ducking"),
      ("NubeSynth", "nube-synth", "Polyphonic synthesizer, unison, FM, glide"),
      ("NubeGate", "nube-gate", "Gate / expander / ducker, transient detection, MIDI trigger"),
-     ("NubeSampler", "nube-sampler", "Sampler, MPC-style chops, one-shot, time-stretch, tempo sync"),
+     ("NubeSampler", "nube-sampler", "Sampler, multi-sample zones, MPC-style chops, one-shot, time-stretch, tempo sync"),
      ("NubeTune", "nube-tune", "Pitch correction (auto-tune), scales, formants, MIDI")]
 now = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 # las entradas que no cambiaron de fuente conservan su fecha (el diff muestra solo lo nuevo)
