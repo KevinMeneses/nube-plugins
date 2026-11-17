@@ -59,8 +59,8 @@
   <category name="Nube Gate">
     <reapack name="nube_gate.jsfx" type="effect" desc="Nube Gate - Gate / expander / ducker, transient detection, MIDI trigger">
       <metadata><link rel="website">https://github.com/KevinMeneses/nube-gate</link></metadata>
-      <version name="1.0.0" author="Kev Meneses" time="2026-11-17T03:05:26Z">
-        <source>https://github.com/KevinMeneses/nube-gate/raw/f451fb54bc5913ba1beb7c1341b88dabcd100ee9/nube_gate.jsfx</source>
+      <version name="1.0.0" author="Kev Meneses" time="2026-11-17T13:49:44Z">
+        <source>https://github.com/KevinMeneses/nube-gate/raw/c5da8f61f430e908b14a0caf8c495f58cc4c0be6/nube_gate.jsfx</source>
       </version>
     </reapack>
   </category>
