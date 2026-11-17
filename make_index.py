@@ -5,7 +5,7 @@ M = pathlib.Path(os.environ["NUBE_ROOT"]).expanduser() if os.environ.get("NUBE_R
 P = [("NubeEQ", "nube-eq", "Parametric EQ, 16 bands, M/S, dynamic"), ("NubeComp", "nube-comp", "Compressor, 5 styles, sidechain, lookahead"),
      ("NubeVerb", "nube-verb", "Algorithmic reverb, 16-line FDN, shimmer, freeze"), ("NubeDeEss", "nube-deess", "De-esser, relative detection, split-band"),
      ("NubeLimit", "nube-limit", "Brickwall limiter, true peak, LUFS meter"), ("NubeDelay", "nube-delay", "Delay, tape / analog / lo-fi, ping-pong, ducking"),
-     ("NubeSynth", "nube-synth", "Polyphonic synthesizer, unison, FM, glide"),
+     ("NubeSynth", "nube-synth", "Polyphonic synthesizer, unison, FM, glide, modulation matrix"),
      ("NubeGate", "nube-gate", "Gate / expander / ducker, transient detection, MIDI trigger"),
      ("NubeSampler", "nube-sampler", "Sampler, multi-sample zones, MPC-style chops, one-shot, time-stretch, tempo sync"),
      ("NubeTune", "nube-tune", "Pitch correction (auto-tune), scales, formants, MIDI")]
