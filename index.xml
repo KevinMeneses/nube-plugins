@@ -64,6 +64,14 @@
       </version>
     </reapack>
   </category>
+  <category name="Nube Sampler">
+    <reapack name="nube_sampler.jsfx" type="effect" desc="Nube Sampler - Sampler, MPC-style chops, one-shot, time-stretch, tempo sync">
+      <metadata><link rel="website">https://github.com/KevinMeneses/nube-sampler</link></metadata>
+      <version name="1.0.0" author="Kev Meneses" time="2026-11-17T11:53:21Z">
+        <source>https://github.com/KevinMeneses/nube-sampler/raw/75462d71d03fa31ac521a672ba41cce39720ed5f/nube_sampler.jsfx</source>
+      </version>
+    </reapack>
+  </category>
   <metadata>
     <link rel="website">https://github.com/KevinMeneses/nube-plugins</link>
   </metadata>
