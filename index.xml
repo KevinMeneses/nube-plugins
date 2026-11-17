@@ -72,6 +72,14 @@
       </version>
     </reapack>
   </category>
+  <category name="Nube Tune">
+    <reapack name="nube_tune.jsfx" type="effect" desc="Nube Tune - Pitch correction (auto-tune), scales, formants, MIDI">
+      <metadata><link rel="website">https://github.com/KevinMeneses/nube-tune</link></metadata>
+      <version name="1.0.0" author="Kev Meneses" time="2026-11-17T13:30:01Z">
+        <source>https://github.com/KevinMeneses/nube-tune/raw/717208e01fc8f029e3d8103b850d2c34c1005a8b/nube_tune.jsfx</source>
+      </version>
+    </reapack>
+  </category>
   <metadata>
     <link rel="website">https://github.com/KevinMeneses/nube-plugins</link>
   </metadata>
