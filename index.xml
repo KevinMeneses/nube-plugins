@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="Nube plugins">
+  <category name="Nube EQ">
+    <reapack name="nube_eq.jsfx" type="effect" desc="Nube EQ - Parametric EQ, 16 bands, M/S, dynamic">
+      <metadata><link rel="website">https://github.com/KevinMeneses/nube-eq</link></metadata>
+      <version name="1.0.0" author="Kev Meneses" time="2026-11-17T01:22:43Z">
+        <source>https://github.com/KevinMeneses/nube-eq/raw/da727ffc6ad50d4135206c7360a340b80612c241/nube_eq.jsfx</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Nube Comp">
+    <reapack name="nube_comp.jsfx" type="effect" desc="Nube Comp - Compressor, 5 styles, sidechain, lookahead">
+      <metadata><link rel="website">https://github.com/KevinMeneses/nube-comp</link></metadata>
+      <version name="1.0.0" author="Kev Meneses" time="2026-11-17T01:22:43Z">
+        <source>https://github.com/KevinMeneses/nube-comp/raw/2e993facfd657d70216b82adc3ea4b52ff51c79a/nube_comp.jsfx</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Nube Verb">
+    <reapack name="nube_verb.jsfx" type="effect" desc="Nube Verb - Algorithmic reverb, 16-line FDN, shimmer, freeze">
+      <metadata><link rel="website">https://github.com/KevinMeneses/nube-verb</link></metadata>
+      <version name="1.0.1" author="Kev Meneses" time="2026-11-17T01:22:43Z">
+        <source>https://github.com/KevinMeneses/nube-verb/raw/46c6df67fa63d0990dee35a4a18f42c7df521a52/nube_verb.jsfx</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Nube De-Ess">
+    <reapack name="nube_deess.jsfx" type="effect" desc="Nube De-Ess - De-esser, relative detection, split-band">
+      <metadata><link rel="website">https://github.com/KevinMeneses/nube-deess</link></metadata>
+      <version name="1.0.0" author="Kev Meneses" time="2026-11-17T01:22:43Z">
+        <source>https://github.com/KevinMeneses/nube-deess/raw/4ac77258c5395cf2bbb6b4ea31d7df75a8fb48b4/nube_deess.jsfx</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Nube Limit">
+    <reapack name="nube_limit.jsfx" type="effect" desc="Nube Limit - Brickwall limiter, true peak, LUFS meter">
+      <metadata><link rel="website">https://github.com/KevinMeneses/nube-limit</link></metadata>
+      <version name="1.0.0" author="Kev Meneses" time="2026-11-17T01:22:43Z">
+        <source>https://github.com/KevinMeneses/nube-limit/raw/1e454818e072bfbb235f99186f810543a56831e6/nube_limit.jsfx</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Nube Delay">
+    <reapack name="nube_delay.jsfx" type="effect" desc="Nube Delay - Delay, tape / analog / lo-fi, ping-pong, ducking">
+      <metadata><link rel="website">https://github.com/KevinMeneses/nube-delay</link></metadata>
+      <version name="1.0.1" author="Kev Meneses" time="2026-11-17T01:22:43Z">
+        <source>https://github.com/KevinMeneses/nube-delay/raw/7abb443355462de579a15d4ea1e30ff589a4a858/nube_delay.jsfx</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Nube Synth">
+    <reapack name="nube_synth.jsfx" type="effect" desc="Nube Synth - Polyphonic synthesizer, unison, FM, glide">
+      <metadata><link rel="website">https://github.com/KevinMeneses/nube-synth</link></metadata>
+      <version name="1.0.0" author="Kev Meneses" time="2026-11-17T01:22:43Z">
+        <source>https://github.com/KevinMeneses/nube-synth/raw/4dc55ceabfdf82deda4dbfb78054b3559f906cf3/nube_synth.jsfx</source>
+      </version>
+    </reapack>
+  </category>
+  <metadata>
+    <link rel="website">https://github.com/KevinMeneses/nube-plugins</link>
+  </metadata>
+</index>
