@@ -1,6 +1,6 @@
 # Nube plugins
 
-Seven free audio plugins for [REAPER](https://www.reaper.fm) (JSFX, macOS / Windows / Linux): a synthesizer and a
+Eight free audio plugins for [REAPER](https://www.reaper.fm) (JSFX, macOS / Windows / Linux): a synthesizer and a
 full mixing chain. Built with [Claude Code](https://claude.com/claude-code) for my own songs.
 
 ![Nube plugins](docs/nube_plugins.png)
@@ -14,6 +14,7 @@ full mixing chain. Built with [Claude Code](https://claude.com/claude-code) for 
 | [Nube Delay](https://github.com/KevinMeneses/nube-delay) | Delay: digital, tape, analog, lo-fi, diffuse; tempo sync, ping-pong, ducking |
 | [Nube De-Ess](https://github.com/KevinMeneses/nube-deess) | De-esser with relative detection and phase-aligned split band |
 | [Nube Limit](https://github.com/KevinMeneses/nube-limit) | Brickwall limiter with 4x true peak and a BS.1770 LUFS meter |
+| [Nube Gate](https://github.com/KevinMeneses/nube-gate) | Gate / expander / ducker with hysteresis, transient detection, sidechain and MIDI trigger |
 
 ## Install
 
@@ -31,7 +32,8 @@ browser. The interfaces are in Spanish; hover any control to see what it does.
 I'm a mobile engineer, not a DSP engineer. I designed these with Claude Code, and since an AI can't listen, every
 feature is checked by rendering test cases inside REAPER and comparing them with the math: filter curves against the
 bilinear transform, tuning to ±0.01 Hz, envelope times, FM sidebands against Bessel functions, echo positions to the
-sample, reverb RT60, loudness against BS.1770. About 330 renders and 400+ automated checks across the seven, plus
+sample, reverb RT60, loudness against BS.1770, gate hysteresis on a slow ramp. About 385 renders and 490+ automated
+checks across the eight, plus
 mouse-driven UI tests. Each repo has its tests under `tests/`.
 
 ## License
@@ -42,7 +44,7 @@ GPL-3.0-or-later. `make_index.py` regenerates `index.xml` from the plugin repos 
 
 ## Español
 
-Siete plugins gratis para REAPER: un sintetizador y una cadena de mezcla completa (EQ, compresor, reverb, delay,
+Ocho plugins gratis para REAPER: un sintetizador y una cadena de mezcla completa (gate, EQ, compresor, reverb, delay,
 de-esser y limitador), hechos con Claude Code para mis canciones. Se instalan con ReaPack pegando la URL de arriba en
 **Extensions → ReaPack → Import repositories…**. Cada plugin se verifica renderizando casos de prueba dentro de REAPER
 y comparándolos con la teoría.
