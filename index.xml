@@ -3,81 +3,81 @@
   <category name="Nube EQ">
     <reapack name="nube_eq.jsfx" type="effect" desc="Nube EQ - Parametric EQ, 16 bands, M/S, dynamic">
       <metadata><link rel="website">https://github.com/KevinMeneses/nube-eq</link></metadata>
-      <version name="1.0.0" author="Kev Meneses" time="2026-11-17T01:22:43Z">
-        <source>https://github.com/KevinMeneses/nube-eq/raw/da727ffc6ad50d4135206c7360a340b80612c241/nube_eq.jsfx</source>
+      <version name="1.1.0" author="Kev Meneses" time="2026-11-18T12:08:00Z">
+        <source>https://github.com/KevinMeneses/nube-eq/raw/e8f1d391cf94413afcbc48b0f666e7a08db6353c/nube_eq.jsfx</source>
       </version>
     </reapack>
   </category>
   <category name="Nube Comp">
     <reapack name="nube_comp.jsfx" type="effect" desc="Nube Comp - Compressor, 5 styles, sidechain, lookahead">
       <metadata><link rel="website">https://github.com/KevinMeneses/nube-comp</link></metadata>
-      <version name="1.0.0" author="Kev Meneses" time="2026-11-17T01:22:43Z">
-        <source>https://github.com/KevinMeneses/nube-comp/raw/2e993facfd657d70216b82adc3ea4b52ff51c79a/nube_comp.jsfx</source>
+      <version name="1.1.0" author="Kev Meneses" time="2026-11-18T12:08:00Z">
+        <source>https://github.com/KevinMeneses/nube-comp/raw/d25a71a74e85419389587069e4c71214cbbca7d2/nube_comp.jsfx</source>
       </version>
     </reapack>
   </category>
   <category name="Nube Verb">
     <reapack name="nube_verb.jsfx" type="effect" desc="Nube Verb - Algorithmic reverb, 16-line FDN, shimmer, freeze">
       <metadata><link rel="website">https://github.com/KevinMeneses/nube-verb</link></metadata>
-      <version name="1.0.1" author="Kev Meneses" time="2026-11-17T01:22:43Z">
-        <source>https://github.com/KevinMeneses/nube-verb/raw/46c6df67fa63d0990dee35a4a18f42c7df521a52/nube_verb.jsfx</source>
+      <version name="1.1.0" author="Kev Meneses" time="2026-11-18T12:08:00Z">
+        <source>https://github.com/KevinMeneses/nube-verb/raw/e5aeee21f19cda1639b0bbd017a58d3dfb52b10e/nube_verb.jsfx</source>
       </version>
     </reapack>
   </category>
   <category name="Nube De-Ess">
     <reapack name="nube_deess.jsfx" type="effect" desc="Nube De-Ess - De-esser, relative detection, split-band">
       <metadata><link rel="website">https://github.com/KevinMeneses/nube-deess</link></metadata>
-      <version name="1.0.0" author="Kev Meneses" time="2026-11-17T01:22:43Z">
-        <source>https://github.com/KevinMeneses/nube-deess/raw/4ac77258c5395cf2bbb6b4ea31d7df75a8fb48b4/nube_deess.jsfx</source>
+      <version name="1.1.0" author="Kev Meneses" time="2026-11-18T12:08:00Z">
+        <source>https://github.com/KevinMeneses/nube-deess/raw/99be98116c6eb7e252c9fe6ac02d1dd9964c0cdd/nube_deess.jsfx</source>
       </version>
     </reapack>
   </category>
   <category name="Nube Limit">
     <reapack name="nube_limit.jsfx" type="effect" desc="Nube Limit - Brickwall limiter, true peak, LUFS meter">
       <metadata><link rel="website">https://github.com/KevinMeneses/nube-limit</link></metadata>
-      <version name="1.0.0" author="Kev Meneses" time="2026-11-17T01:22:43Z">
-        <source>https://github.com/KevinMeneses/nube-limit/raw/1e454818e072bfbb235f99186f810543a56831e6/nube_limit.jsfx</source>
+      <version name="1.1.0" author="Kev Meneses" time="2026-11-18T12:08:00Z">
+        <source>https://github.com/KevinMeneses/nube-limit/raw/aa3ce32aacee670234de0fcc8c2586f9c0796f8b/nube_limit.jsfx</source>
       </version>
     </reapack>
   </category>
   <category name="Nube Delay">
     <reapack name="nube_delay.jsfx" type="effect" desc="Nube Delay - Delay, tape / analog / lo-fi, ping-pong, ducking">
       <metadata><link rel="website">https://github.com/KevinMeneses/nube-delay</link></metadata>
-      <version name="1.0.1" author="Kev Meneses" time="2026-11-17T01:22:43Z">
-        <source>https://github.com/KevinMeneses/nube-delay/raw/7abb443355462de579a15d4ea1e30ff589a4a858/nube_delay.jsfx</source>
+      <version name="1.1.0" author="Kev Meneses" time="2026-11-18T12:08:00Z">
+        <source>https://github.com/KevinMeneses/nube-delay/raw/95ee3a39f3e1ef0596213f2439e33a87945a7fad/nube_delay.jsfx</source>
       </version>
     </reapack>
   </category>
   <category name="Nube Synth">
     <reapack name="nube_synth.jsfx" type="effect" desc="Nube Synth - Polyphonic synthesizer, unison, FM, glide, modulation matrix">
       <metadata><link rel="website">https://github.com/KevinMeneses/nube-synth</link></metadata>
-      <version name="1.1.0" author="Kev Meneses" time="2026-11-17T21:52:26Z">
-        <source>https://github.com/KevinMeneses/nube-synth/raw/12aed48ab6663d2dcef959aa73a9a5a1f44972d0/nube_synth.jsfx</source>
+      <version name="1.2.0" author="Kev Meneses" time="2026-11-18T12:08:00Z">
+        <source>https://github.com/KevinMeneses/nube-synth/raw/6e9565864315eb00794cdd5fc208dd895cd0e2fe/nube_synth.jsfx</source>
       </version>
     </reapack>
   </category>
   <category name="Nube Gate">
     <reapack name="nube_gate.jsfx" type="effect" desc="Nube Gate - Gate / expander / ducker, transient detection, MIDI trigger">
       <metadata><link rel="website">https://github.com/KevinMeneses/nube-gate</link></metadata>
-      <version name="1.0.0" author="Kev Meneses" time="2026-11-17T13:49:44Z">
-        <source>https://github.com/KevinMeneses/nube-gate/raw/c5da8f61f430e908b14a0caf8c495f58cc4c0be6/nube_gate.jsfx</source>
+      <version name="1.1.0" author="Kev Meneses" time="2026-11-18T12:08:00Z">
+        <source>https://github.com/KevinMeneses/nube-gate/raw/4354d990dfbb367d4cbd2f36e28807dfac0eb934/nube_gate.jsfx</source>
       </version>
     </reapack>
   </category>
   <category name="Nube Sampler">
     <reapack name="nube_sampler.jsfx" type="effect" desc="Nube Sampler - Sampler, multi-sample zones, MPC-style chops, one-shot, time-stretch, tempo sync">
       <metadata><link rel="website">https://github.com/KevinMeneses/nube-sampler</link></metadata>
-      <version name="1.1.0" author="Kev Meneses" time="2026-11-17T21:19:29Z">
-        <source>https://github.com/KevinMeneses/nube-sampler/raw/260f76c50289432bf0ba5e0ada9d28092361d28e/nube_sampler.jsfx</source>
+      <version name="1.2.0" author="Kev Meneses" time="2026-11-18T12:08:00Z">
+        <source>https://github.com/KevinMeneses/nube-sampler/raw/06b537f34ec5b0971e11000a87c627c9dc6d0e45/nube_sampler.jsfx</source>
       </version>
     </reapack>
   </category>
   <category name="Nube Tune">
     <reapack name="nube_tune.jsfx" type="effect" desc="Nube Tune - Pitch correction (auto-tune), scales, formants, MIDI">
       <metadata><link rel="website">https://github.com/KevinMeneses/nube-tune</link></metadata>
-      <version name="1.1.0" author="Kev Meneses" time="2026-11-18T01:35:17Z">
-        <source>https://github.com/KevinMeneses/nube-tune/raw/0f48f435c439c7c0ce8516587528a693a9fcad14/nube_tune.jsfx</source>
-        <source type="script" main="main">https://github.com/KevinMeneses/nube-tune/raw/0f48f435c439c7c0ce8516587528a693a9fcad14/Nube%20Tune%20-%20ayudante.lua</source>
+      <version name="1.2.0" author="Kev Meneses" time="2026-11-18T12:08:00Z">
+        <source>https://github.com/KevinMeneses/nube-tune/raw/103004bc930c67e3a91d9c2ebcd06a6c02a8528a/nube_tune.jsfx</source>
+        <source type="script" main="main">https://github.com/KevinMeneses/nube-tune/raw/103004bc930c67e3a91d9c2ebcd06a6c02a8528a/Nube%20Tune%20-%20ayudante.lua</source>
       </version>
     </reapack>
   </category>
