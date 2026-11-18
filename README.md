@@ -7,7 +7,7 @@ corrector and a full mixing chain. Built with [Claude Code](https://claude.com/c
 
 | Plugin | What it is |
 |---|---|
-| [Nube Synth](https://github.com/KevinMeneses/nube-synth) | Polyphonic synth: 2 anti-aliased oscillators with 7-voice unison, sub, noise, FM, filter, 2 envelopes, 2 LFOs, glide (808 slides), FX, 22 presets |
+| [Nube Synth](https://github.com/KevinMeneses/nube-synth) | Polyphonic synth: 2 anti-aliased oscillators with 7-voice unison, sub, noise, FM, filter, 2 envelopes, 2 LFOs, glide (808 slides), FX, a 119-preset library |
 | [Nube EQ](https://github.com/KevinMeneses/nube-eq) | 16-band parametric EQ with M/S, dynamic bands, sidechain and analyzer |
 | [Nube Comp](https://github.com/KevinMeneses/nube-comp) | Compressor with 5 styles, saturation, M/S, sidechain and lookahead |
 | [Nube Verb](https://github.com/KevinMeneses/nube-verb) | Algorithmic reverb (16-line FDN), 6 spaces, ducking, shimmer, freeze |
