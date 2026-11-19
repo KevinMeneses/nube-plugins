@@ -8,7 +8,13 @@ P = [("NubeEQ", "nube-eq", "Parametric EQ, 16 bands, M/S, dynamic"), ("NubeComp"
      ("NubeSynth", "nube-synth", "Polyphonic synthesizer, unison, FM, glide, modulation matrix"),
      ("NubeGate", "nube-gate", "Gate / expander / ducker, transient detection, MIDI trigger"),
      ("NubeSampler", "nube-sampler", "Sampler, multi-sample zones, MPC-style chops, one-shot, time-stretch, tempo sync"),
-     ("NubeTune", "nube-tune", "Pitch correction (auto-tune), scales, formants, MIDI")]
+     ("NubeTune", "nube-tune", "Pitch correction (auto-tune), scales, formants, MIDI"),
+     ("NubeWidth", "nube-width", "Mono-safe M/S stereo width, synthetic side, mono bass, vocal pocket"),
+     ("NubeDuck", "nube-duck", "Sidechain dynamic EQ, the beat ducks under the vocal"),
+     ("NubeClip", "nube-clip", "Soft clipper before the limiter, ceiling, knee, 4x oversampling, bass-only mode"),
+     ("NubeSatura", "nube-satura", "Saturation (tape, tube, hard) with oversampling, parallel sub harmonics, lo-fi radio"),
+     ("NubeTransient", "nube-transient", "Transient shaper, attack and sustain +/-, level-independent, lookahead, per band"),
+     ("NubeMeter", "nube-meter", "Master meter, LUFS, true peak, PLR, stereo, bands vs reference")]
 # scripts extra que van en el mismo paquete (ReaPack los instala en Scripts y los registra como acción)
 EXTRA = {"NubeTune": ["Nube Tune - ayudante.lua"]}
 now = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")

@@ -1,7 +1,7 @@
 # Nube plugins
 
-Ten free audio plugins for [REAPER](https://www.reaper.fm) (JSFX, macOS / Windows / Linux): a synthesizer, a sampler, a pitch
-corrector and a full mixing chain. Built with [Claude Code](https://claude.com/claude-code) for my own songs.
+Sixteen free audio plugins for [REAPER](https://www.reaper.fm) (JSFX, macOS / Windows / Linux): a synthesizer, a sampler, a pitch
+corrector, a full mixing and mastering chain and a master meter. Built with [Claude Code](https://claude.com/claude-code) for my own songs.
 
 ![Nube plugins](docs/nube_plugins.png)
 
@@ -17,6 +17,12 @@ corrector and a full mixing chain. Built with [Claude Code](https://claude.com/c
 | [Nube Gate](https://github.com/KevinMeneses/nube-gate) | Gate / expander / ducker with hysteresis, transient detection, sidechain and MIDI trigger |
 | [Nube Sampler](https://github.com/KevinMeneses/nube-sampler) | Sampler: classic, MPC-style chops (transients / equal / manual) and multi-sample zones (key and velocity ranges, a whole folder maps itself), one-shot, time-stretch, tempo sync, root-note detection, drag and drop (instrument) |
 | [Nube Tune](https://github.com/KevinMeneses/nube-tune) | Pitch correction (auto-tune): key + 12 scales or custom notes, retune speed from robot to natural, humanize, flex-tune, formant-preserving PSOLA, MIDI target notes, key detection, note editor (draw notes like ReaTune manual / Melodyne, click to move playback) |
+| [Nube Width](https://github.com/KevinMeneses/nube-width) | Mono-safe stereo width (M/S): synthetic side, mono bass, a pocket for the vocal, correlation meter |
+| [Nube Duck](https://github.com/KevinMeneses/nube-duck) | Sidechain dynamic EQ: the beat makes room for the vocal only where they collide |
+| [Nube Clip](https://github.com/KevinMeneses/nube-clip) | Soft clipper before the limiter: ceiling, knee, 4x oversampling, bass-only mode, phase rotation |
+| [Nube Satura](https://github.com/KevinMeneses/nube-satura) | Saturation (tape, tube, hard) with oversampling, parallel sub harmonics, old radio / lo-fi |
+| [Nube Transient](https://github.com/KevinMeneses/nube-transient) | Transient shaper: attack and sustain +/-, level-independent, lookahead, per band |
+| [Nube Meter](https://github.com/KevinMeneses/nube-meter) | Master meter: LUFS, true peak, PLR, stereo image, bands vs a reference track, limiting warnings |
 
 ## Install
 
@@ -34,9 +40,10 @@ browser. The interfaces are in Spanish; hover any control to see what it does.
 I'm a mobile engineer, not a DSP engineer. I designed these with Claude Code, and since an AI can't listen, every
 feature is checked by rendering test cases inside REAPER and comparing them with the math: filter curves against the
 bilinear transform, tuning to ±0.01 Hz, envelope times, FM sidebands against Bessel functions, echo positions to the
-sample, reverb RT60, loudness against BS.1770, gate hysteresis on a slow ramp, pitch correction to ±0.1 cent and formants by LPC. About 540 renders and 710+ automated
-checks across the ten, plus
-mouse-driven UI tests. Each repo has its tests under `tests/`.
+sample, reverb RT60, loudness against BS.1770, gate hysteresis on a slow ramp, pitch correction to ±0.1 cent and formants by LPC,
+mono compatibility of the stereo widener, clipper curves with 4x oversampling and transient shaping that doesn't depend on level.
+About 860 renders and 1,000+ automated checks across the sixteen, plus mouse-driven UI tests. Each repo has its tests
+under `tests/`.
 
 ## License
 
@@ -46,7 +53,7 @@ GPL-3.0-or-later. `make_index.py` regenerates `index.xml` from the plugin repos 
 
 ## Español
 
-Diez plugins gratis para REAPER: un sintetizador, un sampler, un afinador automático (autotune) y una cadena de mezcla completa (gate, EQ, compresor, reverb, delay,
-de-esser y limitador), hechos con Claude Code para mis canciones. Se instalan con ReaPack pegando la URL de arriba en
+Dieciséis plugins gratis para REAPER: un sintetizador, un sampler, un afinador automático (autotune) y una cadena de mezcla completa (gate, EQ, compresor, reverb, delay,
+de-esser, ancho estéreo, EQ dinámico, saturador, transient shaper, clipper y limitador) y un medidor de master, hechos con Claude Code para mis canciones. Se instalan con ReaPack pegando la URL de arriba en
 **Extensions → ReaPack → Import repositories…**. Cada plugin se verifica renderizando casos de prueba dentro de REAPER
 y comparándolos con la teoría.

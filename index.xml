@@ -27,8 +27,8 @@
   <category name="Nube De-Ess">
     <reapack name="nube_deess.jsfx" type="effect" desc="Nube De-Ess - De-esser, relative detection, split-band">
       <metadata><link rel="website">https://github.com/KevinMeneses/nube-deess</link></metadata>
-      <version name="1.1.0" author="Kev Meneses" time="2026-11-18T12:08:00Z">
-        <source>https://github.com/KevinMeneses/nube-deess/raw/99be98116c6eb7e252c9fe6ac02d1dd9964c0cdd/nube_deess.jsfx</source>
+      <version name="1.2.0" author="Kev Meneses" time="2026-11-19T22:09:40Z">
+        <source>https://github.com/KevinMeneses/nube-deess/raw/ffd0fad48984cd0398fa6269ef09f26bd557852f/nube_deess.jsfx</source>
       </version>
     </reapack>
   </category>
@@ -78,6 +78,54 @@
       <version name="1.2.0" author="Kev Meneses" time="2026-11-18T12:08:00Z">
         <source>https://github.com/KevinMeneses/nube-tune/raw/103004bc930c67e3a91d9c2ebcd06a6c02a8528a/nube_tune.jsfx</source>
         <source type="script" main="main">https://github.com/KevinMeneses/nube-tune/raw/103004bc930c67e3a91d9c2ebcd06a6c02a8528a/Nube%20Tune%20-%20ayudante.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Nube Width">
+    <reapack name="nube_width.jsfx" type="effect" desc="Nube Width - Mono-safe M/S stereo width, synthetic side, mono bass, vocal pocket">
+      <metadata><link rel="website">https://github.com/KevinMeneses/nube-width</link></metadata>
+      <version name="1.0.0" author="Kev Meneses" time="2026-11-19T22:09:40Z">
+        <source>https://github.com/KevinMeneses/nube-width/raw/00e1d0fcb8929e06efe2358785eafc8b4dce5fea/nube_width.jsfx</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Nube Duck">
+    <reapack name="nube_duck.jsfx" type="effect" desc="Nube Duck - Sidechain dynamic EQ, the beat ducks under the vocal">
+      <metadata><link rel="website">https://github.com/KevinMeneses/nube-duck</link></metadata>
+      <version name="1.0.0" author="Kev Meneses" time="2026-11-19T22:09:40Z">
+        <source>https://github.com/KevinMeneses/nube-duck/raw/c360e92a7a0c5c2fd3d874b23908ecb6a7c48cc1/nube_duck.jsfx</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Nube Clip">
+    <reapack name="nube_clip.jsfx" type="effect" desc="Nube Clip - Soft clipper before the limiter, ceiling, knee, 4x oversampling, bass-only mode">
+      <metadata><link rel="website">https://github.com/KevinMeneses/nube-clip</link></metadata>
+      <version name="1.0.0" author="Kev Meneses" time="2026-11-19T22:09:40Z">
+        <source>https://github.com/KevinMeneses/nube-clip/raw/103acbb4364c02c61d512f67d0475d8520ef4dfd/nube_clip.jsfx</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Nube Satura">
+    <reapack name="nube_satura.jsfx" type="effect" desc="Nube Satura - Saturation (tape, tube, hard) with oversampling, parallel sub harmonics, lo-fi radio">
+      <metadata><link rel="website">https://github.com/KevinMeneses/nube-satura</link></metadata>
+      <version name="1.0.0" author="Kev Meneses" time="2026-11-19T22:09:40Z">
+        <source>https://github.com/KevinMeneses/nube-satura/raw/73b045946feed1891364ee4368d09d9102f06aa3/nube_satura.jsfx</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Nube Transient">
+    <reapack name="nube_transient.jsfx" type="effect" desc="Nube Transient - Transient shaper, attack and sustain +/-, level-independent, lookahead, per band">
+      <metadata><link rel="website">https://github.com/KevinMeneses/nube-transient</link></metadata>
+      <version name="1.0.0" author="Kev Meneses" time="2026-11-19T22:09:40Z">
+        <source>https://github.com/KevinMeneses/nube-transient/raw/1c08197e556ead85a8f92d4828532696be413133/nube_transient.jsfx</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Nube Meter">
+    <reapack name="nube_meter.jsfx" type="effect" desc="Nube Meter - Master meter, LUFS, true peak, PLR, stereo, bands vs reference">
+      <metadata><link rel="website">https://github.com/KevinMeneses/nube-meter</link></metadata>
+      <version name="1.0.0" author="Kev Meneses" time="2026-11-19T22:09:40Z">
+        <source>https://github.com/KevinMeneses/nube-meter/raw/7b820e01ea9cff532ab9b1215881f2dcc7f59c4e/nube_meter.jsfx</source>
       </version>
     </reapack>
   </category>
