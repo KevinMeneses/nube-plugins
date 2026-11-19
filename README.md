@@ -40,9 +40,10 @@ browser. The interfaces are in Spanish; hover any control to see what it does.
 I'm a mobile engineer, not a DSP engineer. I designed these with Claude Code, and since an AI can't listen, every
 feature is checked by rendering test cases inside REAPER and comparing them with the math: filter curves against the
 bilinear transform, tuning to ±0.01 Hz, envelope times, FM sidebands against Bessel functions, echo positions to the
-sample, reverb RT60, loudness against BS.1770, gate hysteresis on a slow ramp, pitch correction to ±0.1 cent and formants by LPC. About 540 renders and 710+ automated
-checks across the sixteen, plus
-mouse-driven UI tests. Each repo has its tests under `tests/`.
+sample, reverb RT60, loudness against BS.1770, gate hysteresis on a slow ramp, pitch correction to ±0.1 cent and formants by LPC,
+mono compatibility of the stereo widener, clipper curves with 4x oversampling and transient shaping that doesn't depend on level.
+About 860 renders and 1,000+ automated checks across the sixteen, plus mouse-driven UI tests. Each repo has its tests
+under `tests/`.
 
 ## License
 
